@@ -1,0 +1,33 @@
+body {
+  text-align: center;
+  background-image: url("./images/claudette-bleijenberg-htQAtouDbt4-unsplash.jpg");
+  background-size: cover;
+  color: whitesmoke;
+}
+
+div {
+  padding: 100px;
+  background-color: #62b6cb;
+  opacity: .8;
+  width: 400px;
+  margin: 100px auto;
+}
+
+.btn {
+  background-color: rgb(199, 8, 8);
+  padding: 7px 15px;
+  color: white;
+  font-weight: 550;
+  margin: 10px;
+  border: none;
+  font-size: 13px;
+  border-radius: 10px;
+}
+
+#save-btn {
+  background-color: green;
+}
+
+#save_el {
+  font-size: 12px;
+}
